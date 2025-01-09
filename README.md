@@ -5,7 +5,7 @@ This project is an interactive Power BI dashboard that provides real-time match 
 ## Dashboard Access
 
 For easy access to the live dashboard, click the link below:
-[https://app.powerbi.com/groups/me/reports/a99c9bc4-d1cc-41db-a2a6-c4ed3c2a0d87/0a3d37d0ac9527445b06?experience=power-bi)
+https://app.powerbi.com/groups/me/reports/a99c9bc4-d1cc-41db-a2a6-c4ed3c2a0d87/0a3d37d0ac9527445b06?experience=power-bi
 
 ## Features
 
