@@ -5,7 +5,7 @@ This project is an interactive Power BI dashboard that provides real-time match 
 ## Dashboard Access
 
 For easy access to the live dashboard, click the link below:
-[IPL 2024 Live Dashboard](https://app.powerbi.com/groups/me/reports/95bd409f-18ca-4fa0-b60b-5dcac0c1ec85/0a3d37d0ac9527445b06?experience=power-bi)
+[https://app.powerbi.com/groups/me/reports/a99c9bc4-d1cc-41db-a2a6-c4ed3c2a0d87/0a3d37d0ac9527445b06?experience=power-bi)
 
 ## Features
 
